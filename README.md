@@ -18,9 +18,9 @@ Flutter Developer passionate about building high-performance, user-friendly, and
   * <b>Frameworks :</b> Flutter</br>
   * <b>State Management :</b> Provider, Riverpod, GetX </br>
   * <b>Backend & APIs :</b> RESTful APIs</br>
-  * <b>Database & Storage :<b> Firebase Firestore, SQLite, Isar, Drift, Hive, ObjectBox, Shared Preferences</br>
+  * <b>Database & Storage :</b> Firebase Firestore, SQLite, Isar, Drift, Hive, ObjectBox, Shared Preferences</br>
   * <b>Cloud Services :</b> Firebase, AWS, Google Cloud</br>
-  * <b>Development Tools :<b> Android Studio, Xcode, VS Code, Git </br>
+  * <b>Development Tools :</b> Android Studio, Xcode, VS Code, Git </br>
 &nbsp;
 &nbsp;
 # 🚀 Skills & Expertise:
