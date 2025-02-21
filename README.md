@@ -14,8 +14,8 @@ Flutter Developer passionate about building high-performance, user-friendly, and
 &nbsp;
 &nbsp;
 # 🛠 Tech Stack:
-  * </b>Languages :</b> Dart, Kotlin, Swift </br>
-  * </b>Frameworks :</b> Flutter</br>
+  * <b>Languages :</b> Dart, Kotlin, Swift </br>
+  * <b>Frameworks :</b> Flutter</br>
   * <b>State Management :</b> Provider, Riverpod, GetX </br>
   * <b>Backend & APIs :</b> RESTful APIs</br>
   * <b>Database & Storage :<b> Firebase Firestore, SQLite, Isar, Drift, Hive, ObjectBox, Shared Preferences</br>
